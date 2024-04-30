@@ -1,0 +1,25 @@
+nome campione ;luogo;numero daphnie;nr;% wwtp;16s ;int1;int1/16s;media ;std;nome campione ;luogo;numero daphnie;% wwtp;16s ;int1;int1/16s;media ;std
+0 Daphnia_1;Experiment T3;0;0;10;+;+;1,27861E-02;0,03472268;0,003785616;0 Daphnia_1;Pallanza;0;0;+;+;1,17058E-02;1,22E-02;0,001380794
+0 Daphnia_2;Experiment T3;0;0;10;+;+;2,32713E-02;;;0 Daphnia_2;Pallanza;0;0;+;+;1,40439E-02;;
+0 Daphnia_3;Experiment T3;0;0;10;+;+;2,19833E-02;;;0 Daphnia_3;Pallanza;0;0;+;+;1,07583E-02;;
+3 Daphnia_1;Experiment T3;3;3;10;+;+;1,48972E-02;0,02758395;0,003693072;20 Daphnia_1;Pallanza;20;0;+;+;2,81391E-02;4,43E-02;0,022881777
+3 Daphnia_2;Experiment T3;3;3;10;+;+;2,56646E-02;;;20 Daphnia_2;Pallanza;20;0;+;+;2,80715E-02;;
+3 Daphnia_3;Experiment T3;3;3;10;+;+;1,14372E-02;;;20 Daphnia_3;Pallanza;20;0;+;+;7,66448E-02;;
+6 Daphnia_1;Experiment T3;6;6;10;+;+;7,05585E-03;0,026848224;0,003869671;20 Copepods_1;Pallanza;20;0;+;+;4,30962E-02;6,84E-02;0,022719279
+6 Daphnia_2;Experiment T3;6;6;10;+;+;1,27077E-02;;;21 Copepods_2;Pallanza;20;0;+;+;9,82098E-02;;
+6 Daphnia_3;Experiment T3;6;6;10;+;+;1,97967E-02;;;22 Copepods_3;Pallanza;20;0;+;+;6,39737E-02;;
+9 Daphnia_1;Experiment T3;9;9;10;+;+;5,49027E-03;0,016983195;0,004205896;;;;;;;;;
+9 Daphnia_2;Experiment T3;9;9;10;+;+;7,57132E-03;;;;;;;;;;;
+9 Daphnia_3;Experiment T3;9;9;10;+;+;1,77016E-02;;;;;;;;;;;
+12 Daphnia_1;Experiment T3;12;12;10;+;+;1,83205E-02;0,013084761;0,004028758;;;;;;;;;
+12 Daphnia_2;Experiment T3;12;12;10;+;+;7,67040E-03;;;;;;;;;;;
+12 Daphnia_3;Experiment T3;12;12;10;+;+;1,23412E-02;;;;;;;;;;;
+15 Daphnia_1;Experiment T3;15;15;10;+;+;3,39461E-03;0,011934473;0,002969502;;;;;;;;;
+15 Daphnia_2;Experiment T3;15;15;10;+;+;8,14518E-03;;;;;;;;;;;
+15 Daphnia_3;Experiment T3;15;15;10;+;+;8,04650E-03;;;;;;;;;;;
+lake water_1;Lake;T0;0;0;+;+;5,36609E-04;0,00185236;0,000200669;;;;;;;;;
+lake water_2;Lake;T0;0;0;+;+;8,39534E-04;;;;;;;;;;;
+lake water_3;Lake;T0;0;0;+;+;1,36303E-03;;;;;;;;;;;
+WWTP effluent_1;WWTP;T0;0;100;+;+;4,44067E-03;0,059584658;0,008597005;;;;;;;;;
+WWTP effluent_2;WWTP;T0;0;100;+;+;2,81292E-03;;;;;;;;;;;
+WWTP effluent_3;WWTP;T0;0;100;+;+;2,55420E-03;;;;;;;;;;;
